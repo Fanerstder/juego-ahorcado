@@ -1,0 +1,28 @@
+body {
+    min-height :1224px;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    box-sizing :border-box;
+    font-family :'Inter',sans-serif;
+    background: #f3f5fc;
+    aling-item :center;
+    justify-content :center;
+}
+#forca{
+    background-color: ;
+}
+.botones-home{
+    background: blue;
+}
+.canvas{
+    background: black;
+}
+.subrayado{
+    display :flex;
+}
+.dibujarLinea{
+    border-bottom :solid 4px #0a3871;
+    width: 30px;
+    margin: 10px;
+}
