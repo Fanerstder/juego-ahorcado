@@ -16,7 +16,7 @@ body {
     background: blue;
 }
 .canvas{
-    background: black;
+    background: #ffffff;
 }
 .subrayado{
     display :flex;
